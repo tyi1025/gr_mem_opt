@@ -1,0 +1,8 @@
+[submodule "qcec"]
+	path = qcec
+	url = https://github.com/tyi1025/qcec.git
+	branch = mem-optim-qcec-tw
+[submodule "ddsim"]
+	path = ddsim
+	url = https://github.com/tyi1025/ddsim.git
+	branch = mem-optim-ddsim-tw
